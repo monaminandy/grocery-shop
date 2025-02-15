@@ -8,94 +8,94 @@ export default function Hero() {
 export const products = [
   {
     title: "Grains",
-    link: "https://gomoonbeam.com",
+    link: "https://grocery.com",
     thumbnail:
       "/grocery1.png",
   },
   {
     title: "Vegetables",
-    link: "https://cursor.so",
+    link: "https://grocery.so",
     thumbnail:
       "/grocery2.png",
   },
   {
     title: "Grocery",
-    link: "https://userogue.com",
+    link: "https://grocery.com",
     thumbnail:
       "/grocery3.png",
   },
 
   {
     title: "Rice Field",
-    link: "https://editorially.org",
+    link: "https://grocery.org",
     thumbnail:
       "/grocery4.png",
   },
   {
     title: "Wheat Field",
-    link: "https://editrix.ai",
+    link: "https://grocery.ai",
     thumbnail:
       "/grocery5.png",
   },
   {
     title: "Mustard Field",
-    link: "https://app.pixelperfect.quest",
+    link: "https://grocery.quest",
     thumbnail:
       "/grocery6.png",
   },
 
   {
     title: "Potato",
-    link: "https://algochurn.com",
+    link: "https://grocery.com",
     thumbnail:
       "/grocery7.png",
   },
   {
     title: "Carrot",
-    link: "https://ui.aceternity.com",
+    link: "https://grocery.com",
     thumbnail:
       "/grocery8.png",
   },
   {
     title: "Ginger",
-    link: "https://tailwindmasterkit.com",
+    link: "https://grocery.com",
     thumbnail:
       "/grocery9.png",
   },
   {
     title: "Garlic",
-    link: "https://smartbridgetech.com",
+    link: "https://grocery.com",
     thumbnail:
       "/grocery10.png",
   },
   {
     title: "Cabbage",
-    link: "https://renderwork.studio",
+    link: "https://grocery.studio",
     thumbnail:
       "/grocery11.png",
   },
 
   {
     title: "Wheat",
-    link: "https://cremedigital.com",
+    link: "https://grocery.com",
     thumbnail:
       "/grocery12.png",
   },
   {
     title: "Field",
-    link: "https://goldenbellsacademy.com",
+    link: "https://grocery.com",
     thumbnail:
       "/grocery13.png",
   },
   {
     title: "Rice",
-    link: "https://invoker.lol",
+    link: "https://grocery.lol",
     thumbnail:
       "/grocery14.png",
   },
   {
     title: "Onions And Carrots",
-    link: "https://efreeinvoice.com",
+    link: "https://grocery.com",
     thumbnail:
       "/grocery15.png",
   },
