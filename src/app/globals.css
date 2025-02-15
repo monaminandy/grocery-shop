@@ -8,6 +8,7 @@
   --primary: #2d2a6e;
   --secondary: #96ae00;
   --tertiary: #3c3976;
+  --secondary1: #2f3601;
 }
 
 @media (prefers-color-scheme: dark) {
